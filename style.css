@@ -1,0 +1,13 @@
+.section div {
+    overflow: hidden;
+    
+}
+.section img {
+    border-radius: 5px;
+    width: 100%;
+}
+  .section div img:hover{
+    transform: scale(1.1);
+    transition: all 0.3s ;
+    border-radius: 5px;
+}
